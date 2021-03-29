@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @threeskimo
 - 👀 I’m interested in code, infosec, videogames
 - 🌱 I’m currently learning all the things
-- 📫 Reach me on Discord `Threeskimo#5022`, gmail `mynameismac`, or carrier pigeon
+- 📫 Reach me on Discord `threeskimo#5022`, gmail `mynameismac`, or carrier pigeon
