@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @threeskimo
 - 👀 I’m interested in code, infosec, videogames
-- 🌱 I’m currently learning all the things
+- 🌱 I’m currently (continuously) learning ahk, css, html, php, javascript, jquery, bash, vbscript
 - 📫 Reach me on Discord `threeskimo#5022`, gmail `mynameismac`, or carrier pigeon
